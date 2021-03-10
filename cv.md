@@ -11,7 +11,7 @@
 
 ### Summary
 
-> I'm working in Epam as Junior Test Automation Engineer on C#. I want to learn JS, CSS, NodeJS and other technologies that would help me to become a strongly fullstack specialist.
+I'm working in Epam as Junior Test Automation Engineer on C#. I want to learn JS, CSS, NodeJS and other technologies that would help me to become a strongly fullstack specialist.
 
 ### Skills
 
@@ -25,30 +25,32 @@
 
 ### Working Experience
 
-- _Job Position:_ Test Automation Engineer
-- _Project Roles:_ Automation Engineer
-- _Customer:_ Thomson Reuters, Business Information and Media
-- _Project:_ TRI-3ECR, - Refactoring of services for Thomson Reuters Elite 3E Product: Core Module, Components, Tools; - Testing, Test Automation
-- _Participation:_
+- Job Position: _Test Automation Engineer_
+- Project Roles: _Automation Engineer_
+- Customer: _Thomson Reuters, Business Information and Media_
+- Project: _TRI-3ECR, - Refactoring of services for Thomson Reuters Elite 3E Product: Core Module, Components, Tools; - Testing, Test Automation_
+- Participation:
 
-  > - Maintain the API and UI test automation framework based on C# .NET and custom Titanium UI framework.
-  > - Implement and updated existing automated tests.
-  > - Created and updated test cases in Azure DevOps(TFS).
-  > - Participated in regular meeting in daily stand-ups, iteration planning and status calls.
-  > - Maintain release definitions on CI
-  > - Performed test automation code review and refactoring.
+  - Maintain the API and UI test automation framework based on C# .NET and custom Titanium UI framework.
+  - Implement and updated existing automated tests.
+  - Created and updated test cases in Azure DevOps(TFS).
+  - Participated in regular meeting in daily stand-ups, iteration planning and status calls.
+  - Maintain release definitions on CI
+  - Performed test automation code review and refactoring.
 
-- _Team:_ QA team: 11 automation engineer
-- _Database:_ Microsoft SQL Server
-- _Tools:_ Git, Microsoft DevAzure, Azure DevOps CI, MS Visual Studio 2019, Titanium TAF based on RestSharp and Selenium.
-- _Technologies:_ C# .NET
+- Team: _QA team: 11 automation engineer_
+- Database: _Microsoft SQL Server_
+- Tools: _Git, Microsoft DevAzure, Azure DevOps CI, MS Visual Studio 2019, Titanium TAF based on RestSharp and Selenium_
+- Technologies: _C#, .NET_
 
 ### Education
 
 **BSU - Faculty of Radiophysics and Computer Technologies (Bachelor's degree)**
+
 2016 - 2020 Radiophysicist
 
 **BSU - Faculty of Radiophysics and Computer Technologies (Master's degree)**
+
 2020 - 2022
 
 ### English
